@@ -1,0 +1,588 @@
+0:0:0
+     RDKit          3D
+
+ 20 20  0  0  1  0  0  0  0  0999 V2000
+    8.0068    9.9014   22.5295 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9567   10.8657   23.0566 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7717   10.6068   22.8597 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4219   11.9623   23.6804 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6977   13.0088   24.3168 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4233   14.1638   24.6771 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7801   15.2418   25.3148 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4043   15.1760   25.6032 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7809   16.2196   26.2205 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6734   14.0264   25.2568 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3149   12.9463   24.6216 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6364   10.3916   21.7892 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5388    9.0337   22.0605 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6323    9.5477   23.3468 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4259   12.0776   23.6726 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4816   14.2316   24.4680 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3516   16.1175   25.5825 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3706   16.9358   26.4091 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6194   13.9622   25.4839 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7177   12.0790   24.3932 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 12  1  0
+  1 13  1  0
+  1 14  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  4 15  1  0
+  5 11  2  0
+  5  6  1  0
+  6  7  2  0
+  6 16  1  0
+  7  8  1  0
+  7 17  1  0
+  8  9  1  0
+  8 10  2  0
+  9 18  1  0
+ 10 11  1  0
+ 10 19  1  0
+ 11 20  1  0
+M  END
+>  <s_m_source_file>  (1) 
+/tmp/tmp6g6aqywy/tmpv6io2reh.sdf
+
+>  <i_m_source_file_index>  (1) 
+1
+
+>  <i_lp_mmshare_version>  (1) 
+54117
+
+>  <i_f3d_flags>  (1) 
+0
+
+>  <s_epik_input>  (1) 
+W0NIM11DKD1PKVtOSF1jMVtjSF1bY0hdYyhbT0hdKVtjSF1bY0hdMQ==
+
+>  <s_epik_cmdline>  (1) 
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+>  <r_lp_tautomer_probability>  (1) 
+1
+
+>  <r_epik_Ionization_Penalty>  (1) 
+0.00064723
+
+>  <r_epik_Ionization_Penalty_Charging>  (1) 
+0
+
+>  <r_epik_Ionization_Penalty_Neutral>  (1) 
+0.00064723
+
+>  <r_epik_State_Penalty>  (1) 
+0.00040971
+
+>  <r_epik_Charging_Adjusted_Penalty>  (1) 
+0.00040971
+
+>  <i_epik_Tot_Q>  (1) 
+0
+
+>  <i_epik_Tot_abs_Q>  (1) 
+0
+
+>  <s_lp_Force_Field>  (1) 
+OPLS_2005
+
+>  <r_lp_Energy>  (1) 
+9.39663
+
+>  <b_lp_Chiralities_Consistent>  (1) 
+1
+
+>  <s_lp_Variant>  (1) 
+0:0-1
+
+>  <s_i_glide_gridfile>  (1) 
+1UYD_grid_constraints
+
+>  <i_i_glide_lignum>  (1) 
+1
+
+>  <i_i_glide_rotatable_bonds>  (1) 
+3
+
+>  <r_i_docking_score>  (1) 
+-6.33987
+
+>  <r_i_glide_ligand_efficiency>  (1) 
+-0.576352
+
+>  <r_i_glide_ligand_efficiency_sa>  (1) 
+-1.28179
+
+>  <r_i_glide_ligand_efficiency_ln>  (1) 
+-1.86582
+
+>  <r_i_glide_gscore>  (1) 
+-6.33987
+
+>  <r_i_glide_lipo>  (1) 
+-2.04447
+
+>  <r_i_glide_hbond>  (1) 
+-0.435687
+
+>  <r_i_glide_metal>  (1) 
+-0
+
+>  <r_i_glide_rewards>  (1) 
+-2.42641
+
+>  <r_i_glide_evdw>  (1) 
+-24.3415
+
+>  <r_i_glide_ecoul>  (1) 
+-5.74356
+
+>  <r_i_glide_erotb>  (1) 
+0.645308
+
+>  <r_i_glide_esite>  (1) 
+0
+
+>  <r_i_glide_emodel>  (1) 
+-41.3413
+
+>  <r_i_glide_energy>  (1) 
+-30.085
+
+>  <r_i_glide_einternal>  (1) 
+0.103779
+
+>  <r_i_glide_intrahb_reward>  (1) 
+-0
+
+>  <r_i_glide_emodel_strain>  (1) 
+0
+
+>  <r_i_glide_gscore_strain>  (1) 
+0
+
+>  <i_i_glide_confnum>  (1) 
+1
+
+>  <i_i_glide_posenum>  (1) 
+130
+
+>  <r_i_glide_eff_state_penalty>  (1) 
+0
+
+>  <grid_id>  (1) 
+0
+
+>  <grid_path>  (1) 
+~/IcolosData/Glide/1UYD_grid_constraints.zip
+
+>  <grid_filename>  (1) 
+1UYD_grid_constraints.zip
+
+>  <docking_score>  (1) 
+-6.33987
+
+>  <g_score>  (1) 
+-6.33987
+
+>  <compound_name>  (1) 
+Paracetamol
+
+>  <index_string>  (1) 
+0:0:0
+
+$$$$
+0:0:1
+     RDKit          3D
+
+ 20 20  0  0  1  0  0  0  0  0999 V2000
+    1.2037   11.2119   24.2549 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2278   12.3352   24.1058 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8740   13.4301   23.6676 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4861   12.0155   24.4523 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6360   12.8455   24.4427 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8584   12.2542   24.0665 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0460   13.0085   24.0678 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0276   14.3574   24.4716 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1838   15.0862   24.4712 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8113   14.9500   24.8708 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6142   14.1987   24.8569 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4565   10.3698   23.6105 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2038   11.5545   23.9894 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1722   10.8612   25.2871 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6482   11.0452   24.6729 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8936   11.2180   23.7660 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9728   12.5473   23.7616 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9277   14.6264   24.0964 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7983   15.9843   25.1840 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6913   14.6586   25.1783 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 12  1  0
+  1 13  1  0
+  1 14  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  4 15  1  0
+  5 11  2  0
+  5  6  1  0
+  6  7  2  0
+  6 16  1  0
+  7  8  1  0
+  7 17  1  0
+  8  9  1  0
+  8 10  2  0
+  9 18  1  0
+ 10 11  1  0
+ 10 19  1  0
+ 11 20  1  0
+M  END
+>  <s_m_source_file>  (2) 
+/tmp/tmp6g6aqywy/tmpv6io2reh.sdf
+
+>  <i_m_source_file_index>  (2) 
+1
+
+>  <i_lp_mmshare_version>  (2) 
+54117
+
+>  <i_f3d_flags>  (2) 
+0
+
+>  <s_epik_input>  (2) 
+W0NIM11DKD1PKVtOSF1jMVtjSF1bY0hdYyhbT0hdKVtjSF1bY0hdMQ==
+
+>  <s_epik_cmdline>  (2) 
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+>  <r_lp_tautomer_probability>  (2) 
+1
+
+>  <r_epik_Ionization_Penalty>  (2) 
+0.00064723
+
+>  <r_epik_Ionization_Penalty_Charging>  (2) 
+0
+
+>  <r_epik_Ionization_Penalty_Neutral>  (2) 
+0.00064723
+
+>  <r_epik_State_Penalty>  (2) 
+0.00040971
+
+>  <r_epik_Charging_Adjusted_Penalty>  (2) 
+0.00040971
+
+>  <i_epik_Tot_Q>  (2) 
+0
+
+>  <i_epik_Tot_abs_Q>  (2) 
+0
+
+>  <s_lp_Force_Field>  (2) 
+OPLS_2005
+
+>  <r_lp_Energy>  (2) 
+9.39663
+
+>  <b_lp_Chiralities_Consistent>  (2) 
+1
+
+>  <s_lp_Variant>  (2) 
+0:0-1
+
+>  <s_i_glide_gridfile>  (2) 
+1UYD_grid_constraints
+
+>  <i_i_glide_lignum>  (2) 
+1
+
+>  <i_i_glide_rotatable_bonds>  (2) 
+3
+
+>  <r_i_docking_score>  (2) 
+-6.26114
+
+>  <r_i_glide_ligand_efficiency>  (2) 
+-0.569195
+
+>  <r_i_glide_ligand_efficiency_sa>  (2) 
+-1.26588
+
+>  <r_i_glide_ligand_efficiency_ln>  (2) 
+-1.84265
+
+>  <r_i_glide_gscore>  (2) 
+-6.26114
+
+>  <r_i_glide_lipo>  (2) 
+-1.886
+
+>  <r_i_glide_hbond>  (2) 
+-0.588967
+
+>  <r_i_glide_metal>  (2) 
+-0
+
+>  <r_i_glide_rewards>  (2) 
+-2.4229
+
+>  <r_i_glide_evdw>  (2) 
+-22.9643
+
+>  <r_i_glide_ecoul>  (2) 
+-5.73576
+
+>  <r_i_glide_erotb>  (2) 
+0.645308
+
+>  <r_i_glide_esite>  (2) 
+0
+
+>  <r_i_glide_emodel>  (2) 
+-39.222
+
+>  <r_i_glide_energy>  (2) 
+-28.7001
+
+>  <r_i_glide_einternal>  (2) 
+1.29175
+
+>  <r_i_glide_intrahb_reward>  (2) 
+-0
+
+>  <r_i_glide_emodel_strain>  (2) 
+0
+
+>  <r_i_glide_gscore_strain>  (2) 
+0
+
+>  <i_i_glide_confnum>  (2) 
+1
+
+>  <i_i_glide_posenum>  (2) 
+315
+
+>  <r_i_glide_eff_state_penalty>  (2) 
+0
+
+>  <grid_id>  (2) 
+0
+
+>  <grid_path>  (2) 
+~/IcolosData/Glide/1UYD_grid_constraints.zip
+
+>  <grid_filename>  (2) 
+1UYD_grid_constraints.zip
+
+>  <docking_score>  (2) 
+-6.26114
+
+>  <g_score>  (2) 
+-6.26114
+
+>  <compound_name>  (2) 
+Paracetamol
+
+>  <index_string>  (2) 
+0:0:1
+
+$$$$
+0:0:2
+     RDKit          3D
+
+ 20 20  0  0  1  0  0  0  0  0999 V2000
+    8.2490   10.6197   23.6560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7912   10.9041   23.3697 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2374   10.2832   22.4675 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2154   11.8555   24.1219 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8717   12.3049   24.0777 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6144   13.6287   24.4889 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3026   14.1367   24.4675 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2373   13.3196   24.0436 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9707   13.8205   23.9775 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4811   11.9856   23.6678 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7925   11.4759   23.6876 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8732   11.4219   23.2674 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5546    9.6922   23.1718 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4372   10.5182   24.7233 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8269   12.3658   24.7414 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4240   14.2705   24.8051 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1250   15.1573   24.7675 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9057   14.7050   24.3048 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6644   11.3501   23.3581 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9502   10.4460   23.4056 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 12  1  0
+  1 13  1  0
+  1 14  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  4 15  1  0
+  5 11  2  0
+  5  6  1  0
+  6  7  2  0
+  6 16  1  0
+  7  8  1  0
+  7 17  1  0
+  8  9  1  0
+  8 10  2  0
+  9 18  1  0
+ 10 11  1  0
+ 10 19  1  0
+ 11 20  1  0
+M  END
+>  <s_m_source_file>  (3) 
+/tmp/tmp6g6aqywy/tmpv6io2reh.sdf
+
+>  <i_m_source_file_index>  (3) 
+1
+
+>  <i_lp_mmshare_version>  (3) 
+54117
+
+>  <i_f3d_flags>  (3) 
+0
+
+>  <s_epik_input>  (3) 
+W0NIM11DKD1PKVtOSF1jMVtjSF1bY0hdYyhbT0hdKVtjSF1bY0hdMQ==
+
+>  <s_epik_cmdline>  (3) 
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+>  <r_lp_tautomer_probability>  (3) 
+1
+
+>  <r_epik_Ionization_Penalty>  (3) 
+0.00064723
+
+>  <r_epik_Ionization_Penalty_Charging>  (3) 
+0
+
+>  <r_epik_Ionization_Penalty_Neutral>  (3) 
+0.00064723
+
+>  <r_epik_State_Penalty>  (3) 
+0.00040971
+
+>  <r_epik_Charging_Adjusted_Penalty>  (3) 
+0.00040971
+
+>  <i_epik_Tot_Q>  (3) 
+0
+
+>  <i_epik_Tot_abs_Q>  (3) 
+0
+
+>  <s_lp_Force_Field>  (3) 
+OPLS_2005
+
+>  <r_lp_Energy>  (3) 
+9.39663
+
+>  <b_lp_Chiralities_Consistent>  (3) 
+1
+
+>  <s_lp_Variant>  (3) 
+0:0-1
+
+>  <s_i_glide_gridfile>  (3) 
+1UYD_grid_constraints
+
+>  <i_i_glide_lignum>  (3) 
+1
+
+>  <i_i_glide_rotatable_bonds>  (3) 
+3
+
+>  <r_i_docking_score>  (3) 
+-6.02349
+
+>  <r_i_glide_ligand_efficiency>  (3) 
+-0.54759
+
+>  <r_i_glide_ligand_efficiency_sa>  (3) 
+-1.21783
+
+>  <r_i_glide_ligand_efficiency_ln>  (3) 
+-1.77271
+
+>  <r_i_glide_gscore>  (3) 
+-6.02349
+
+>  <r_i_glide_lipo>  (3) 
+-1.46526
+
+>  <r_i_glide_hbond>  (3) 
+-0.504191
+
+>  <r_i_glide_metal>  (3) 
+-0
+
+>  <r_i_glide_rewards>  (3) 
+-2.46368
+
+>  <r_i_glide_evdw>  (3) 
+-18.9797
+
+>  <r_i_glide_ecoul>  (3) 
+-8.57788
+
+>  <r_i_glide_erotb>  (3) 
+0.645308
+
+>  <r_i_glide_esite>  (3) 
+0
+
+>  <r_i_glide_emodel>  (3) 
+-38.0802
+
+>  <r_i_glide_energy>  (3) 
+-27.5575
+
+>  <r_i_glide_einternal>  (3) 
+0.442512
+
+>  <r_i_glide_intrahb_reward>  (3) 
+-0
+
+>  <r_i_glide_emodel_strain>  (3) 
+0
+
+>  <r_i_glide_gscore_strain>  (3) 
+0
+
+>  <i_i_glide_confnum>  (3) 
+2
+
+>  <i_i_glide_posenum>  (3) 
+173
+
+>  <r_i_glide_eff_state_penalty>  (3) 
+0
+
+>  <grid_id>  (3) 
+0
+
+>  <grid_path>  (3) 
+~/IcolosData/Glide/1UYD_grid_constraints.zip
+
+>  <grid_filename>  (3) 
+1UYD_grid_constraints.zip
+
+>  <docking_score>  (3) 
+-6.02349
+
+>  <g_score>  (3) 
+-6.02349
+
+>  <compound_name>  (3) 
+Paracetamol
+
+>  <index_string>  (3) 
+0:0:2
+
+$$$$

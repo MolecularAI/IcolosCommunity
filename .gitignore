@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+package.json
+.vscode
+tags
+.idea
+
+*.log
+.directory
+*_cache
+*.ipynb_checkpoints
