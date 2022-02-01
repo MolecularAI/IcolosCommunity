@@ -8,6 +8,7 @@ dependencies:
   - biopython>=1.79
   - ipython
   - jupyter
+  - pip
   - python>=3.9
   - scikit-learn>=1.0.1
   - modal>=0.4
