@@ -10,4 +10,9 @@ Build and activate the environment with the following
 conda env create -f environment.yml
 conda activate icoloscommunity
 ```
+Install the Icolos package from [here](https://github.com/MolecularAI/Icolos):
+```
+cd Icolos
+pip install -e .
+```
 You can then launch the notebooks
