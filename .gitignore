@@ -10,3 +10,4 @@ tags
 *_cache
 *.ipynb_checkpoints
 output/*
+config/*
