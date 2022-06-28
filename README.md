@@ -3,15 +3,18 @@
 Collection of tutorial notebooks for Icolos workflows
 
 ### Installation 
-A bespoke `icoloscommunity` environment is provided to allow Icolos workflows to be run directly from the notebooks.
-
-Build and activate the environment with the following
+Install the production conda environment using the yml from the main Icolos repo [here](https://github.com/MolecularAI/Icolos)
 ```
-conda env create -f environment.yml
-conda activate icoloscommunity
+conda env create -f environment_min.yml
+conda activate icolosprod
 ```
-Install the Icolos package from [here](https://github.com/MolecularAI/Icolos):
+Install the Icolos package into the environment:
 ```
+pip install icolos
+```
+Or install the latest version from Github
+```
+git clone https://github.com/MolecularAI/Icolos.git
 cd Icolos
 pip install -e .
 ```
